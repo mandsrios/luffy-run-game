@@ -1,4 +1,4 @@
-# Jogo de Pulo - Luffy Run Game
+# Jogo de Pulo - Luffy Run Game ☠️
 
 Um jogo simples de pulo infinito onde você controla o Luffy pulando sobre ondas de água em uma praia paradisíaca.
 
@@ -73,5 +73,6 @@ O jogo pode ser facilmente personalizado editando:
 
 ---
 
-**Divirta-se jogando! 🏖️**
+**Divirta-se jogando! 🏖️☠️**
+
 
