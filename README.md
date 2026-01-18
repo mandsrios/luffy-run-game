@@ -1,6 +1,9 @@
-# Jogo de Pulo - Luffy Beach Runner
+# Jogo de Pulo - Luffy Run Game
 
 Um jogo simples de pulo infinito onde você controla o Luffy pulando sobre ondas de água em uma praia paradisíaca.
+
+
+https://github.com/user-attachments/assets/6539b491-38f9-4616-9aa6-dab24d99de50
 
 ## 🎮 Como Jogar
 
@@ -26,10 +29,6 @@ Sobreviva o máximo possível pulando sobre as ondas que se aproximam da esquerd
 - **HTML5**: Estrutura da página
 - **CSS3**: Estilização, animações e layout responsivo
 - **JavaScript**: Lógica do jogo, detecção de colisão e controle de eventos
-
-## 🎥 Demonstração
-
-Assista ao vídeo de demonstração do jogo: [luffy-pulando-game.mp4](./imagens/luffy-pulando-game.mp4)
 
 ## 📁 Estrutura do Projeto
 
@@ -74,4 +73,5 @@ O jogo pode ser facilmente personalizado editando:
 
 ---
 
-**Divirta-se jogando! 🏖️🐰**
+**Divirta-se jogando! 🏖️**
+
