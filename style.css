@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.game-board{
+    width: 80%;
+    height: 500px;
+    border: 1px solid #333;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    background-image: url('./imagens/praiafundo2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.obstacle{
+    position: absolute;
+    bottom: 0;
+    width: 90px;
+    right: -90px;
+    animation: obstacle-animation 2s linear;
+}
+
+.obstacle.cloud{
+    bottom: auto;
+    top: 300px;
+}
+
+.luffy{
+    width: 140px;
+    position: absolute;
+    bottom: 0;
+}
+
+.jump{
+    animation: luffy-jump 500ms ease-out;
+}
+
+.game-over-message{
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    display: none;
+}
+
+.restart-button{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 11;
+    display: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-style: italic;
+    background-color: #a57434;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.restart-button:hover{
+    background-color: #b35100;
+}
+
+@keyframes obstacle-animation {
+    from{
+        right: -90px;
+    }
+    to{
+        right: 100%;
+    }
+}
+
+@keyframes luffy-jump {
+    0%{
+        bottom: 0;
+    }
+    40%{
+        bottom: 180px;
+    }
+    50%{
+        bottom: 180px;
+    }
+    60%{
+        bottom: 180px;
+    }
+    100%{
+        bottom: 0;
+    }  
+}
