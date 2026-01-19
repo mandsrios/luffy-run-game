@@ -71,8 +71,14 @@ O jogo pode ser facilmente personalizado editando:
 - As animações são feitas com CSS keyframes
 - O jogo é totalmente client-side, não requer servidor
 
+## ⚠️ Avisos:
+- Este projeto é apenas para fins educacionais.
+- Sprites obtidos a partir de GIFs do Tenor.
+- Todos os direitos dos personagens pertencem aos seus respectivos autores.
+
 ---
 
 **Divirta-se jogando! 🏖️☠️**
+
 
 
