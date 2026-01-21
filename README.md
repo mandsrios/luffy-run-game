@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/6539b491-38f9-4616-9aa6-dab24d99de50
 
 ## 🎯 Objetivo
 
-Sobreviva o máximo possível pulando sobre as ondas que se aproximam da esquerda para a direita.
+Sobreviva o máximo possível pulando sobre as ondas que se aproximam da direita para esquerda.
 
 ## ✨ Características
 
@@ -79,6 +79,7 @@ O jogo pode ser facilmente personalizado editando:
 ---
 
 **Divirta-se jogando! 🏖️☠️**
+
 
 
 
